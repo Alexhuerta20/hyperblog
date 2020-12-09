@@ -3,3 +3,5 @@ Esta es la historia de Alejandro Huerta
 Un chavo que quiere aprender data science y se le complica
 
 pero podrá lograrlo si es consistente
+
+tiene que estudiar diario
