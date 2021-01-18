@@ -5,3 +5,5 @@ Un chavo que quiere aprender data science y se le complica
 pero podrá lograrlo si es consistente
 
 tiene que estudiar constante
+
+Experimento 1   
